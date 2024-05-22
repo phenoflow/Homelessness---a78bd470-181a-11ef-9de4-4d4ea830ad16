@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/homelessness---secondary.py
+inputModule3:
+  class: File
+  path: python/homelessness-house---secondary.py
+inputModule4:
+  class: File
+  path: python/homelessness-inclusion---secondary.py
+inputModule5:
+  class: File
+  path: python/homelessness-practice---secondary.py
+inputModule6:
+  class: File
+  path: python/homelessness-london---secondary.py
+inputModule7:
+  class: File
+  path: python/homelessness-healthcare---secondary.py
+inputModule8:
+  class: File
+  path: python/medical-homelessness---secondary.py
+inputModule9:
+  class: File
+  path: python/homelessness-service---secondary.py
+inputModule10:
+  class: File
+  path: python/homelessness-centre---secondary.py
+inputModule11:
+  class: File
+  path: python/patient-homelessness---secondary.py
+inputModule12:
+  class: File
+  path: python/wirral-homelessness---secondary.py
+inputModule13:
+  class: File
+  path: python/homelessness-nursing---secondary.py
+inputModule14:
+  class: File
+  path: python/homelessness-cambridge---secondary.py
+inputModule15:
+  class: File
+  path: python/homelessness-team---secondary.py
+inputModule16:
+  class: File
+  path: python/homelessness-surgery---secondary.py
+inputModule17:
+  class: File
+  path: python/central-homelessness---secondary.py
+inputModule18:
+  class: File
+  path: python/clinic-homelessness---secondary.py
+inputModule19:
+  class: File
+  path: python/homelessness-action---secondary.py
+inputModule20:
+  class: File
+  path: python/homelessness-street---secondary.py
+inputModule21:
+  class: File
+  path: python/homelessness-refugees---secondary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
